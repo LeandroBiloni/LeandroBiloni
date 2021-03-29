@@ -4,6 +4,7 @@
 - 📫 How to reach me: 
                       Mail: leandrobiloni@hotmail.com
                       Facebook: Leandro Biloni
+                      LinkedIn: Leandro Biloni
 
 <!---
 LeandroBiloni/LeandroBiloni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
