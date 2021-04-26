@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeandroBiloni
 - 👀 I’m interested in game development (programming and game design).
-- 🌱 I’m currently learning Unity/C# and Unreal/C++
+- 🌱 I’m currently using Unity/C# and learning Unreal/C++
 - 📫 How to reach me: 
                       Mail: leandrobiloni@hotmail.com
                       Facebook: Leandro Biloni
