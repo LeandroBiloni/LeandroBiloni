@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeandroBiloni
-- 👀 I’m interested in game development (programming and game design).
+- 👀 I’m interested in game programming.
 - 🌱 I’m currently using Unity/C# and learning Unreal/C++
 - 📫 How to reach me: 
                       -LinkedIn: Leandro Biloni (https://www.linkedin.com/in/leandro-biloni-181374bb/)
